@@ -1,0 +1,1 @@
+This repo will hold lessons and exercises for Data Science Libraries!
